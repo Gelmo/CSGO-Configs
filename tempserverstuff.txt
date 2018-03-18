@@ -1,7 +1,0 @@
-Flux ๑ﭥ: bot_kick;mp_warmuptime 9999999;sv_accelerate 10;sv_airaccelerate 150;sv_cheats 1;sv_enablebunnyhopping 1;sv_autobunnyhopping 1;sv_staminamax 0;sv_staminajumpcost 0;sv_staminalandcost 0;sv_staminarecoveryrate 0;sv_accelerate_use_weapon_speed 0
-GelmoSan: oh alright i'll just grab it then
-Flux ๑ﭥ: put that in a notepad or something
-GelmoSan: what needs to be changed for horizon?
-GelmoSan: just 425?
-GelmoSan: and rates obv
-Flux ๑ﭥ: sv_accelerate 5.5;sv_airaccelerate 425
